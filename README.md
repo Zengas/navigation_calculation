@@ -23,5 +23,9 @@ This project helps sailors, navigators, and enthusiasts perform practical mariti
 - Compute azimuth and rhumb line distance between two points.
 - Includes graphical visualization of headings.
 
+## ✅ Instructions
+- Download the zip and unpack everything into a folder.
+- Run the navigational_suite.py and follow the instructions, they are self-explanatory.
+
 ##
 Created to deepen my understanding of practical offshore navigation during the Portuguese *Patrão de Alto Mar* (Ocean Skipper) course.
